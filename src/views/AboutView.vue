@@ -1,15 +1,23 @@
-<template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
-</template>
-
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
+<script>
+export default{
+  data(){
+    return{
+      
+    }
   }
 }
-</style>
+</script>
+
+<template>
+  <div class="">
+    <h1>Instagram</h1>
+  </div>
+
+  <div>
+    <div class="">
+      
+    </div>
+
+  </div>
+
+</template>
